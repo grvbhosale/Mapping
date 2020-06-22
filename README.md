@@ -18,7 +18,7 @@ Check if package works properly - rosrun mapsaver mapsaver (Should not display a
 cd /home/gaurav/catkin_ws/src/LeGO-LOAM-BOR/LeGO-LOAM/launch <br />
 edit run.launch
 <br />
-add - <node pkg="mapsaver" type="mapsaver" name="mapsaver"><br />
+add - '<node pkg="mapsaver" type="mapsaver" name="mapsaver"><br />
 <br /><br />
 Run the lego-loam launcher as you previously did, you shoud find -<br />
 /home/gaurav/catkin_ws/src/mapsaver/maps/map_pcd.pcd<br />
