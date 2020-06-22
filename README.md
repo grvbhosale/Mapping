@@ -7,7 +7,7 @@ Follow the instructions to install and run the pacakge.<br />
 <b>Compile</b><br />
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/grvbhosale/Mapping.git
+git clone https://github.com/grvbhosale/mapsaver.git
 cd ..
 catkin_make
 ```
