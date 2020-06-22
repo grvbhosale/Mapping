@@ -21,8 +21,9 @@ edit run.launch
 <br />
 add - `<node pkg="mapsaver" type="mapsaver" name="mapsaver">`<br />
 <br /><br />
-Run the lego-loam launcher as you previously did, you shoud find -<br />
-/home/gaurav/catkin_ws/src/mapsaver/maps/map_pcd.pcd<br />
+Run the lego-loam launcher as you previously did, you shoud find the map in -<br />
+`roslaunch lego_loam run.launch`</br>
+mapsaver/maps/map_pcd.pcd<br />
 <br />
 To view this map you install pcl viewer , if you dnt have it already<br />
 <br />
