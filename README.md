@@ -28,3 +28,5 @@ To view this map you install pcl viewer , if you dnt have it already<br />
 <br />
 `pcl_viewer -multiview 1 [map_pcd.pcd]` // use thegiven code , if you are already on the same DIR, otherwise specifiy the path. <br />
 
+<b> Image of PCD Map </b>
+![Image of Mapping](https://github.com/grvbhosale/Mapping/blob/master/map_pcd.PNG)
