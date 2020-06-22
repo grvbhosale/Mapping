@@ -1,4 +1,4 @@
-# Mapping
+# mapsaver
 
 <h3>A little package to save the LeGO-LOAM generated Maps from your LiDAR.</h3>
 
