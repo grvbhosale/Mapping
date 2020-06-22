@@ -1,6 +1,6 @@
 # Mapping
 
-<h3>A little package to save the LeGO-LOAM generated Maps from your Robots.</h3>
+<h3>A little package to save the LeGO-LOAM generated Maps from your LiDAR.</h3>
 
 Follow the instructions to install and run the pacakge.<br />
 
