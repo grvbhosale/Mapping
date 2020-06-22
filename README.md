@@ -2,13 +2,14 @@
 
 <h3>A little package to save the LeGO-LOAM generated Maps from your Robots.</h3>
 
-Follow the instructions to install and run the pacakge.
+Follow the instructions to install and run the pacakge.<br />
 
-Compile
-cd ~/catkin_ws/src
-git clone https://github.com/grvbhosale/Mapping.git
-cd ..
-catkin_make
+<b>Compile</b><br />
+
+'cd ~/catkin_ws/src<br />
+'git clone https://github.com/grvbhosale/Mapping.git<br />
+'cd ..<br />
+'catkin_make<br />
 
 Check if package works properly - rosrun mapsaver mapsaver (Should not display anything.)
 
